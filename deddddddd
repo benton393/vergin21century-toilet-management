@@ -1,0 +1,13 @@
+echo "# vergin21century-toilet-management" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/benton393/vergin21century-toilet-management.git
+git push -u origin master
+git remote add origin https://12306.com.cn
+git push -u wtf am i origin master
+git push -u no you are not sorry for that 
+git push -u so how about let us leave this web?
+git push -u because i think this is borng.
+git push -u where do yu want to go?
+git push -u *thinking*
